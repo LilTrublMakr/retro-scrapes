@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/1944.zip</path>
+    <name>1944 - The Loop Master</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/1944.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/1944.png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+    <releasedate>20000101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot&apos;em up / Vertical, Shoot&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/avsp.zip</path>
+    <name>Alien Vs Predator</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/avsp.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/avsp.png</marquee>
+    <video />
+    <rating>0.4</rating>
+    <desc>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
+
+The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>3</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/armwar.zip</path>
+    <name>Armored Warriors</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/armwar.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/armwar.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
+
+But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become &quot;the perfect warrior&quot;, has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.
+
+The United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called &quot;Bloody Armor&quot;, to eradicate the enemy forces and rescue the civilians.
+
+And so, in October 2282, the United World Forces begin to launch its attack upon the planet Raia.
+
+The most intense battle in human history is about to begin...</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>3</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/batcir.zip</path>
+    <name>Battle Circuit</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/batcir.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/batcir.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>Battle Circuit take place in an alternate future earth, the game revolves around a group of bounty hunters who must capture the mad scientist Doctor Saturn and secure a sophisticated computer disc carrying a program known as the &quot;Shiva System&quot;. Battle Circuit, which was Capcom&apos;s last beat &apos;em game for the arcades, contains comic-like characters in a futuristic science fiction setting and is considered by some to be a cult classic.</desc>
+    <releasedate>19970101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>4</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/dino.zip</path>
+    <name>Cadillacs And Dinosaurs</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/dino.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/dino.png</marquee>
+    <video />
+    <rating>0.75</rating>
+    <desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat &apos;em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>3</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/cawing.zip</path>
+    <name>Carrier Air Wing</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/cawing.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/cawing.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of &apos;Rabu&apos; threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</desc>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot&apos;em up / Horizontal, Shoot&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/cybots.zip</path>
+    <name>Cyberbots - Fullmetal Madness</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/cybots.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/cybots.png</marquee>
+    <video />
+    <rating>0.75</rating>
+    <desc>Near the end of the 21st century, Earth begins to become overpopulated, leading to many people living in man-made space colonies. The primary army of Earth called &quot;Earth Corps&quot;, has been conducting nefarious experiments and their work, along with the actions of the playable characters, will determine Earth&apos;s future.</desc>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/ddsom.zip</path>
+    <name>Dungeons And Dragons - Shadow Over Mystara</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/ddsom.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/ddsom.png</marquee>
+    <video />
+    <rating>0.6</rating>
+    <desc>Dungeons &amp; Dragons: Shadow over Mystara is an arcade game developed and published by Capcom in 1996 as a sequel to Dungeons &amp; Dragons: Tower of Doom. It was also released on the Sega Saturn, packaged with Tower of Doom, under the title Dungeons &amp; Dragons Collection. The game is set in the Dungeons &amp; Dragons campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.</desc>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>4</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/ddtod.zip</path>
+    <name>Dungeons And Dragons - Tower Of Doom</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/ddtod.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/ddtod.png</marquee>
+    <video />
+    <rating>0.6</rating>
+    <desc>Dungeons &amp; Dragons: Tower of Doom is the first of two video games created by Capcom based on the Dungeons &amp; Dragons tabletop role-playing game. The game was also released on the Sega Saturn, packaged with its sequel, Dungeons &amp; Dragons: Shadow over Mystara, under the title Dungeons &amp; Dragons Collection, although the Saturn version limited the gameplay to only 2 players. The game is set in the Mystara campaign setting.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>4</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/dynwar.zip</path>
+    <name>Dynasty Wars</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/dynwar.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/dynwar.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the &apos;Huang Ching&apos;, the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.</desc>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/ecofghtr.zip</path>
+    <name>Eco Fighters</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/ecofghtr.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/ecofghtr.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>Eco Fighters is a horizontal shooter, where the player controls a ship with a rotating gun. As suggested by both its titles, the game has an &quot;eco-friendly&quot; theme. It was also developed by the same team from two Mega Man arcade titles, The Power Battle and The Power Fighters.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot&apos;em up / Horizontal, Shoot&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/ffight.zip</path>
+    <name>Final Fight</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/ffight.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/ffight.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or &quot;rounds&quot;, as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/ghouls.zip</path>
+    <name>Ghouls&apos;n Ghosts</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/ghouls.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/ghouls.png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>Three years have passed since the events of &quot;Makaimura&quot; and Arthur the knight once again finds himself battling against the hideous creatures of Demon World. The demons have now seized the kingdom and Arthur returns home to witness the castle&apos;s lone survivor, his beloved Gunievere, murdered by the king of the demons, Lucifer. Arthur once again embarks on a one-man quest to destroy the demonic invaders and save Gunievere&apos;s mortal soul. </desc>
+    <releasedate>19880101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform, Plateform / Fighter Scrolling</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/gigawing.zip</path>
+    <name>Giga Wing</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/gigawing.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/gigawing.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>&apos;Medallions&apos; are mystic stones sent from heaven, brought evolution to human technology and lead tremendous progress to the armories. To gain their powers which the &apos;Stones&apos; hold for the promised victory, many nations fought over the mystic stones and reheated the world of war. Within all the &apos;Stones&apos; is the &apos;Medallion of Wisdom&apos;, known as the power source of all mystic stones, it had enough energy to terminate humanity. The whole world was in despair. And now, four brave worriers have risen to fly straight into the combat zone! All four had different reasons, but their ultimate goal was the same: to destroy the Medallion of Wisdom! Fight to save the humanity!
+
+Giga Wing is a shoot-em-up set during a fictional war. The player controls one of four different futuristic aircraft and must destroy enemy aircraft, tanks, ships, and buildings using both guns and missiles mounted on the aircraft and a limited supply of bombs which damage or destroy all enemies on-screen when used.</desc>
+    <releasedate>19990101T000000</releasedate>
+    <developer>Takumi</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot&apos;em up / Vertical, Shoot&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/knights.zip</path>
+    <name>Knights Of The Round</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/knights.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/knights.png</marquee>
+    <video />
+    <rating>0.75</rating>
+    <desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat &apos;em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>3</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/msword.zip</path>
+    <name>Magic Sword - Heroic Fantasy</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/msword.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/msword.png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>The land has been cast in darkness by Drokmar, who has been corrupted by the Black Orb; an artefact that promises immortality to anyone who comes under the influence of the orb&apos;s powerful sorcery. Tw</desc>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Plateform / Fighter Scrolling, Platform</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/mmatrix.zip</path>
+    <name>Mars Matrix - Hyper Solid Shooting</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/mmatrix.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/mmatrix.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called &quot;INFINITY&quot;. In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
+    <releasedate>20000101T000000</releasedate>
+    <developer>Takumi</developer>
+    <publisher>Takumi</publisher>
+    <genre>Shoot&apos;em up / Vertical, Shoot&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/msh.zip</path>
+    <name>Marvel Super Heroes</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/msh.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/msh.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight / Versus, Fight</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/mshvsf.zip</path>
+    <name>Marvel Super Heroes Vs. Street Fighter</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/mshvsf.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/mshvsf.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Now you can choose your favorite heroes from the worlds of Street Fighter and Marvel Super Heroes to face off in a head-to-head battle for supremacy. Dive into the action to perform outrageous moves and link together amazing Chain Combos... then delight in their devastating results! Marvel Super Heroes vs. Street Fighter combines two incredible universes to create an entirely new legend of heroic proportions.</desc>
+    <releasedate>19970101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight / Versus, Fight</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/megaman2.zip</path>
+    <name>Mega Man 2 - The Power Fighters</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/megaman2.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/megaman2.png</marquee>
+    <video />
+    <rating>0.65</rating>
+    <desc>Building upon the previous game, you must battle Dr. Wily&apos;s evil robot criminals with the help of Megaman, Protoman, Bass &amp; Duo. Features cool 2-D graphics and the same tried &amp; true Mega Man controls. Pay attention to Dr. Light&apos;s advice and you may reach Dr. Wily&apos;s fortress and come out victorious!</desc>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight / Co-op, Fight</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/mtwins.zip</path>
+    <name>Mega Twins</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/mtwins.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/mtwins.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>The game features two twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land&apos;s only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory. The two twins, aged around 15 at the time the game takes place, venture forth in search of a legendary stone known as &quot;Dragon Blue Eyes&quot;, which is rumored to be able to put everything back to rights.</desc>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Plateform / Fighter Scrolling, Platform</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/mbombrd.zip</path>
+    <name>Muscle Bomber Duo - Ultimate Team Battle</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/mbombrd.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/mbombrd.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Professional wrestling experienced a sudden increase in popularity during the early 1980s, where many professional wrestling organizations were started all over the world. A severe rivalry existed among the organizations.
+
+In order to resolve this conflict, 8 organizations combined to form the Capcom Professional Wrestling Association (CPWA), led by Victor Ortega, the CPWA?s first champion.
+
+One day, Ortega suddenly vanished. He was considered to be the axis of the sport and his unexpected disappearance caused the CPWA to enter an age of confusion and disorder. The BPWA, a dark underground wrestling organization, chose to take advantage of this opportunity and began moving. With &quot;Fighters of Muscle Bomber = Destiny&quot; as the theme, the CPWA chief executives decided to hold a world tour called the ?Crash Carnival,? to decide the new king of the CPWA.
+
+The gong that determines the new ?Master of Muscle Bomber? is sounded?</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Sports / Wrestling, Sports</genre>
+    <players>4</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/nemo.zip</path>
+    <name>Nemo</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/nemo.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/nemo.png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>One night, as Nemo sleeps, he is visited in a dream by the King of Slumberland, who invites Nemo to come and play with the King&apos;s daughter, the Princess. Nemo finds himself unable to find the Princess however, so he and &apos;Flip&apos;, a strange companion who also turns up in the dream, decide to explore Slumberland and find the king.
+
+Nemo is a colourful and abstract platform shoot-em-up set in the dream world of Slumberland, a surreal world in which childrens&apos; toys are running amok and must be destroyed. Nemo is armed with a magical staff that emits a burst of magic to destroy the many enemies, some of which require multiple hits. A number of power-ups also appear at regular intervals to aid Nemo in his quest through seven tough stages.</desc>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform, Plateform / Fighter Scrolling</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/nwarr.zip</path>
+    <name>Night Warriors / Vampire Hunter - Darkstalkers&apos; Revenge</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/nwarr.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/nwarr.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>Night Warriors: Darkstalkers&apos; Revenge is the second game in the Darkstalkers series of gothic horror fighting games. Released in 1995, it is the upgraded version of the original game which introduced several gameplay changes to the game.
+
+The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who were out to hunt the other Darkstalkers (hence the Japanese title, Vampire Hunter). The two bosses from the first game, Huitzil and Pyron, were now playable characters as well. The game was first released for arcades and later ported to the Sega Saturn. Character art was done by Ikeno.</desc>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/pnickj.zip</path>
+    <name>Pnickies</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/pnickj.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/pnickj.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Puzzle-Game, Puzzle-Game / Fall</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/punisher.zip</path>
+    <name>Punisher, The</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/punisher.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/punisher.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat&apos;em Up</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/slammast.zip</path>
+    <name>Saturday Night Slam Masters</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/slammast.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/slammast.png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special &apos;super slam&apos;. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Sports, Sports / Wrestling</genre>
+    <players>4</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/sf2.zip</path>
+    <name>Street Fighter 2 - The World Warrior</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/sf2.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/sf2.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating &quot;Dragon Punch&quot;! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/strider.zip</path>
+    <name>Strider</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/strider.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/strider.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of &apos;Strider Hiryu&apos;, a ninja-style warrior who must defeat a legendary being known as &apos;Grandmaster Meio&apos;. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as &apos;The Third Moon&apos;) between Earth and its moon in order to rule over the Human race. </desc>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform, Plateform / Fighter Scrolling</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/sgemf.zip</path>
+    <name>Super Gem Fighter - Mini Mix</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/sgemf.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/sgemf.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary &quot;Street Fighter&quot; series, as well as &quot;Darkstalkers&quot; and the little-known &quot;Red Earth&quot;.
+
+During a bout, players will be able to release coloured gems from successful attacks against their opponent, as well as from wooden chests that regularly appear. Collecting these gems will &apos;power-up&apos; the player&apos;s character, giving them more powerful attacks. There are two bars and three sub-bars in the interface. The two main bars are the life bar and the super bar; the first indicates the player&apos;s health and the second their ability to throw super combos. The Super Bar itself can be filled up to nine levels, allowing players to execute more super combos. Each super combo has a level assigned to it, and it uses Super Bars depending on it.</desc>
+    <releasedate>19970101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/ssf2t.zip</path>
+    <name>Super Street Fighter II Turbo</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/ssf2t.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/ssf2t.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/3wonders.zip</path>
+    <name>Three Wonders</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/3wonders.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/3wonders.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>The main character of the Chariot and Midnight Wanderers games Lou, was used as an assist only character for Marvel vs Capcom he also had the option character from Midnight Wanderers known as Firestorm with him. His sprite is like an enlarged version of his sprites from Midnight Wanderers, he shares the same position stance, his trademark jump in which he holds his hand on his hat, and also the same shooting animation. The sprites are recoloured in a more vibrant cartoon-esque style, as opposed to the washed out effect from the games, to match the style of the Marvel vs Capcom series. If two players get Lou, then the second player&apos;s pallette is Green, and is most likely based on Siva&apos;s color clothing from the Midnight Wanderers game. Player two&apos;s firestorm is colored orange.
+
+Lou&apos;s Companion Siva, has a character based on him as a tribute, featuring on Capcom&apos;s Cannon Spike game. The character is called Shiba Shintaro.</desc>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform, Compilation</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/unsquad.zip</path>
+    <name>U.n. Squadron</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/unsquad.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/unsquad.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as &apos;Project 4&apos;.</desc>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot&apos;em Up, Shoot&apos;em up / Horizontal</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/dstlk.zip</path>
+    <name>Vampire / Darkstalkers - The Night Warriors</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/dstlk.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/dstlk.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Vampire / Darkstalkers - The Night Warriors is a one-on-one beat-em-up in which a powerful alien demon called &apos;Pyron&apos; has invaded Earth to add to his collection of the planets that he has already devoured. Enter the world&apos;s most fearsome monsters who, ironically, are Mankind&apos;s last line of defense.
+
+The game features ten playable characters (Demitri Maximoff, Jon Talbain, Victor von Gerdenheim, Lord Raptor, Morrigan Aensland, Anakaris, Felicia, Oboro Bishamon, Rikuo and Sasquatch) with two non-playable boss characters - Huitzil and Pyron - as the final opponents of the single-player game.</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/vhunt2.zip</path>
+    <name>Vampire Hunter 2 - Darkstalkers&apos; Revenge</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/vhunt2.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/vhunt2.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>Fourteen well-animated creatures from Hell rip, tear and otherwise fight for control of the nether-realms.</desc>
+    <releasedate>19970101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/vsav.zip</path>
+    <name>Vampire Savior - The Lord Of Vampire</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/vsav.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/vsav.png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
+    <releasedate>19970101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/vsav2.zip</path>
+    <name>Vampire Savior 2 - The Lord Of Vampire</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/vsav2.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/vsav2.png</marquee>
+    <video />
+    <rating>0.7</rating>
+    <desc>Fifteen characters fight to end the reign of Jedah, the Vampire Savior and save their own souls!</desc>
+    <releasedate>19970101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight, Fight / Versus</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/fba/xmvsf.zip</path>
+    <name>X-men Vs. Street Fighter</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/fba/screenshots/xmvsf.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/fba/marquees/xmvsf.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>X-Men vs. Street Fighter pits Marvel&apos;s mighty mutants against Capcom&apos;s legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world&apos;s most amazing fantasy fighter!</desc>
+    <releasedate>19960101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight</genre>
+    <players>2</players>
+  </game>
+</gameList>

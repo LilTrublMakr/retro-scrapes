@@ -1,0 +1,746 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Baseball Stars (Japan, Europe).zip</path>
+    <name>Baseball Stars</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Baseball Stars (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Baseball Stars (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay&apos;s style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</desc>
+    <releasedate>19981028T000000</releasedate>
+    <developer>Saurus Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <genre>Sports, Sports / Baseball</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Baseball Stars Color (World) (En,Ja).zip</path>
+    <name>Baseball Stars Color</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Biomotor Unitron (USA, Europe).zip</path>
+    <name>Biomotor Unitron</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Bust-A-Move Pocket (USA).zip</path>
+    <name>Bust-A-Move Pocket</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
+    <name>Cool Boarders Pocket</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Crush Roller (World) (En,Ja).zip</path>
+    <name>Crush Roller</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
+    <name>Dark Arms - Beast Buster 1999</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Dive Alert - Becky&apos;s Version (USA, Europe).zip</path>
+    <name>Dive Alert - Becky&apos;s Version</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Dive Alert - Matt&apos;s Version (USA, Europe).zip</path>
+    <name>Dive Alert - Matt&apos;s Version</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
+    <name>Dynamite Slugger</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Evolution - Eternal Dungeons (Europe).zip</path>
+    <name>Evolution - Eternal Dungeons</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Fantastic Night Dreams Cotton (Europe).zip</path>
+    <name>Fantastic Night Dreams Cotton</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Faselei! (Europe).zip</path>
+    <name>Faselei!</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Fatal Fury F-Contact (World) (En,Ja).zip</path>
+    <name>Fatal Fury F-Contact</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/King of Fighters R-1 (Japan, Europe).zip</path>
+    <name>King Of Fighters R-1</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/King of Fighters R-1 (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/King of Fighters R-1 (Japan, Europe).png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>The King of Fighters: R1 marks SNK&apos;s first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters &apos;97. Players can choose from &quot;Extra&quot; &amp; &quot;Advance&quot; play modes similar to KOF &apos;97, and most characters play closely to their original versions.</desc>
+    <releasedate>19981028T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fight</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/King of Fighters R-2 (World) (En,Ja).zip</path>
+    <name>King of Fighters R-2</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Magical Drop Pocket (USA, Europe).zip</path>
+    <name>Magical Drop Pocket</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Melon-chan no Seichou Nikki (Japan).zip</path>
+    <name>Melon-chan no Seichouki</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Melon-chan no Seichou Nikki (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Melon-chan no Seichou Nikki (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Melon Chan&apos;s Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan&apos;s Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.
+
+The game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.</desc>
+    <releasedate>19981028T000000</releasedate>
+    <developer>ADK</developer>
+    <publisher>SNK</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Metal Slug - 1st Mission (World) (En,Ja).zip</path>
+    <name>Metal Slug - 1st Mission</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
+    <name>Metal Slug - 2nd Mission</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo 21 - Real Casino Series (World).zip</path>
+    <name>Neo 21 - Real Casino Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Baccarat - Real Casino Series (World).zip</path>
+    <name>Neo Baccarat - Real Casino Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Cherry Master - Real Casino Series (Japan, Europe).zip</path>
+    <name>Neo Cherry Master</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Neo Cherry Master - Real Casino Series (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Neo Cherry Master - Real Casino Series (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Neo Cherry Master is a virtual slot machine simulator for the Neo Geo Pocket. The game simulates the old fashioned fruit-matching slots (infamously known as one-armed bandits), where the player simply &quot;pulls the lever&quot; and leaves the rest up to chance. The game features two modes, Simple and Original mode, with the only difference being that the latter allows for name entry and the ability to save high scores.</desc>
+    <releasedate>19981225T000000</releasedate>
+    <developer>Dyna Corporation</developer>
+    <publisher>SNK</publisher>
+    <genre>Casino, Casino / Slot machine</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).zip</path>
+    <name>Neo Cherry Master Color - Real Casino Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Dragon&apos;s Wild - Real Casino Series (World) (En,Ja) (v1.13).zip</path>
+    <name>Neo Dragon&apos;s Wild - Real Casino Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Geo Cup &apos;98 Plus (World) (En,Ja).zip</path>
+    <name>Neo Geo Cup &apos;98 Plus</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).zip</path>
+    <name>Neo Mystery Bonus - Real Casino Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Turf Masters (World) (En,Ja).zip</path>
+    <name>Neo Turf Masters</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Neo Geo Cup &apos;98 (Japan, Europe).zip</path>
+    <name>NeoGeo Cup &apos;98</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Neo Geo Cup &apos;98 (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Neo Geo Cup &apos;98 (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Neo Geo Cup &apos;98: The Road to the Victory is a soccer video game based on the FIFA World Cup 1998, despite being released after the 1998 FIFA World Cup. It features 73 teams&apos; countries. Each team enters a &quot;Regional Qualifying Round Final&quot; where it plays a team it actually played in the 1998 FIFA World Cup qualification. For example: Spain would face Yugoslavia, an opponent it actually faced in its qualifying group. Or Italy would face Russia, an opponent Italy faced in the UEFA play-offs. If the player beats the opponent, it goes to a group much like the real life World Cup. In fact, the team faces opponents that were actually in its group. For example: Mexico would face the Netherlands, Belgium and South Korea. It is a re-make of Super Sidekicks 3. However, animations and designs were exactly the same. The only difference is teams to reflect the World Cup, kits again to reflect the World Cup, and players to resemble squads from the World Cup (teams that did not qualify use line-ups from friendly games and qualifiers). Its slogan is &quot;We got the kick&quot;.</desc>
+    <releasedate>19981028T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Sports, Sports / Soccer</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Pac-Man (World) (En,Ja).zip</path>
+    <name>Pac-Man</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Picture Puzzle (USA, Europe).zip</path>
+    <name>Picture Puzzle</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Pocket Reversi (Europe).zip</path>
+    <name>Pocket Reversi</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Pocket Tennis - Pocket Sports Series (Japan, Europe).zip</path>
+    <name>Pocket Tennis</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Pocket Tennis - Pocket Sports Series (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Pocket Tennis - Pocket Sports Series (Japan, Europe).png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.
+
+Exhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).
+
+Tournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final.</desc>
+    <releasedate>19981028T000000</releasedate>
+    <developer>Yumekobo Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <genre>Sports / Tennis, Sports</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
+    <name>Pocket Tennis Color - Pocket Sports Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Puyo Pop (World) (En,Ja) (v1.06).zip</path>
+    <name>Puyo Pop</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Puzzle Bobble Mini (Japan, Europe) (v1.10).zip</path>
+    <name>Puzzle Bobble Mini</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Puzzle Link (Europe).zip</path>
+    <name>Puzzle Link</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Puzzle Link 2 (USA, Europe).zip</path>
+    <name>Puzzle Link 2</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
+    <name>Renketsu Puzzle Tsunagete Pon!</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.</desc>
+    <releasedate>19981028T000000</releasedate>
+    <developer>Yumekobo Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+    <name>Samurai Shodown! 2 - Pocket Fighting Series</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).zip</path>
+    <name>Samurai Spirits!</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).png</marquee>
+    <video />
+    <rating>0.8</rating>
+    <desc>Samurai Shodown! Pocket is essentially a &quot;pocket sized&quot; version of Samurai Shodown 4. Much like the rest of the fighting games on the Neo Geo Pocket, the characters are drawn in super-deformed chibi style (big heads and tiny bodies). This title was also one of the first games for the Neo Geo Pocket, so the game was only in black &amp; white... ironically suiting for a &quot;samurai&quot; game. The art style is definitely on the &quot;cutesy&quot; side and much different than any Samurai Shodown game before it, but it can grow on you if you give it a chance.
+
+The classic Samurai Shodown gameplay made the jump to the handheld layout fairly well, but it&apos;s not nearly as smooth as Neo Geo arcade classic. The gameplay is particularly slower and very simplified in this version. Characters retain most of their specials and super moves but the deeper gameplay strategies from the arcade iterations are pretty much gone. It&apos;s basically a new game all together and it&apos;s nothing spectacular, but it&apos;s fun for a handheld title.</desc>
+    <releasedate>19981225T000000</releasedate>
+    <developer>Saurus Co., Ltd.</developer>
+    <publisher>SNK</publisher>
+    <genre>Fight</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Shanghai Mini (World) (En,Ja).zip</path>
+    <name>Shanghai Mini</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Shougi no Tatsujin (Japan).zip</path>
+    <name>Shougi no Tatsujin: Master of Syougi</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/ngp/screenshots/Shougi no Tatsujin (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/ngp/marquees/Shougi no Tatsujin (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Shogi is the Japanese equivalent of chess. Indeed, as in chess, the goal of the game is to subdue the opposing king! Nevertheless, there are several differences between the Shogi and our chess game, be it in the nature of the pieces, their positions or their movements.</desc>
+    <releasedate>19981120T000000</releasedate>
+    <developer>ADK Corporation</developer>
+    <publisher>SNK</publisher>
+    <genre>Strategy, Shougi, Asiatic board game</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/SNK Gals&apos; Fighters (USA, Europe).zip</path>
+    <name>SNK Gals&apos; Fighters</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/SNK vs. Capcom - Card Fighters&apos; Clash - Capcom Version (USA, Europe).zip</path>
+    <name>SNK vs. Capcom - Card Fighters&apos; Clash - Capcom Version</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/SNK vs. Capcom - Card Fighters&apos; Clash - SNK Version (USA, Europe).zip</path>
+    <name>SNK vs. Capcom - Card Fighters&apos; Clash - SNK Version</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
+    <name>SNK vs. Capcom - The Match of the Millennium</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Sonic the Hedgehog - Pocket Adventure (World).zip</path>
+    <name>Sonic the Hedgehog - Pocket Adventure</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/ngp/Last Blade, The - Beyond the Destiny (Europe).zip</path>
+    <name>The Last Blade - Beyond the Destiny</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+</gameList>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/pi/RetroPie/roms/psp/Patapon.iso</path>
+    <name>Patapon</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/psp/screenshots/Patapon.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/psp/marquees/Patapon.png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>Set among a variety of colorful 2D backgrounds, Patapon unfolds through more than 30 missions with more than 20 different environments, where players are tasked with outfitting the Patapon army, collecting resources, and using strategy to grow the tribe into a devastating fighting force. Incorporating various button-timed drumbeats in real-time to control the Patapons, players will strategically traverse through each environment, battling enemies each step of the way. The game presents a variety of warrior types such as archers, infantry, cavalry, and more that players can unlock, along with a wide selection of more than 100 weapon and shield upgrades, allowing players to customize their forces throughout the funky adventure.</desc>
+    <releasedate>20080226T000000</releasedate>
+    <developer>Pyramid</developer>
+    <publisher>Sony</publisher>
+    <genre>Music and Dance, Strategy</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/psp/Patapon 2.iso</path>
+    <name>Patapon 2</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/psp/screenshots/Patapon 2.png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/psp/marquees/Patapon 2.png</marquee>
+    <video />
+    <rating>0.85</rating>
+    <desc>The story of the Patapon tribe marches forth as they hunt for the fabled Earthend. Shipwrecked in a new and strange continent the Patapon are depending on you, their god, to lead them safely through this perilous new land. As you guide the tribe through this new world with your mystical drum, they will come face to face with a new tribe, encounter a mysterious and mighty Hero Patapon and uncover the ruins of Patapolis, a mystical place long spoken of by the Patapon. All-new modes to Patapon 2 include thrilling multiplayer stages, a huge array of missions and deep tutorials that will have you drumming to the beat of the Patapon in no time. Head to patapon-game.com for the captivating mini-game, The Art Of War, where the goal is to collect as many Patapon characters as you can and then immortalise your battle with the Patapon Wallpaper creator. Lead your loyal followers through 60 rhythmic stages. Keep the beat going with tons of hidden items and mini-games to reveal. Drum along with friends and tackle multiplayer missions.</desc>
+    <releasedate>20081127T000000</releasedate>
+    <developer>Pyramid</developer>
+    <publisher>Sony</publisher>
+    <genre>Music and Dance</genre>
+    <players>4</players>
+    <kidgame>true</kidgame>
+  </game>
+</gameList>

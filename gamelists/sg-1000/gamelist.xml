@@ -1,0 +1,1393 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/James Bond 007 (Japan).zip</path>
+    <name>007 James Bond</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/James Bond 007 (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/James Bond 007 (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>007 James Bond is a shoot-&apos;em-up game developed and published by Tsukuda Original for the SG-1000. It was ported from Parker Brothers&apos;s 1983 game of the same name, which was published for various American computers/consoles.
+
+007 James Bond was the last SG-1000 game to be produced by the company.</desc>
+    <releasedate>19830630T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Bank Panic (Japan).zip</path>
+    <name>Bank Panic</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Bank Panic (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Bank Panic (Japan).png</marquee>
+    <video />
+    <rating>0.9</rating>
+    <desc>Bank Panic is an arcade shooting game developed by Sanritsu and manufactured by Sega in 1984. It was later ported by Sega to the SG-1000 and Sega Master System. An unlicensed clone called West Bank was released for several home computer systems. The same hardware would also be used for the later Sega/Sanritsu game Combat Hawk.
+
+The player takes on the role of a sheriff in 19th century USA, protecting a bank from armed robbers. There are twelve doors arranged in a circle, with the player in the centre, which can be viewed three at a time. Robbers who appear from the doors are to be shot (after they draw their weapons, for a higher score) and customers are to be ignored while they make a deposit. Once deposits have been made from all twelve doors, the level is complete.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sanritsu Denki Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Black Onyx, The (Japan) (Translated En).zip</path>
+    <name>Black Onyx, The</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Black Onyx, The (Japan) (Translated En).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Black Onyx, The (Japan) (Translated En).png</marquee>
+    <video />
+    <rating />
+    <desc>The Black Onyx is a role-playing game developed by Bullet Proof Software. It was released, among other consoles and computers, for the SG-1000 in 1987. It was the last SG-1000 game to be released in card form, and the last to be published by Sega, but it is currently unknown as to whether it was the last SG-1000 game. PC-8801 and MSX versions had been released in 1984 and 1985, respectively, meaning this version is unusually late. The game was followed by The Black Onyx II: Search For The Fire Crystal, which saw its original MSX release in 1984.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Bullet-Proof Software, Inc.</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Black Onyx, The (Japan).zip</path>
+    <name>Black Onyx, The</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Black Onyx, The (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Black Onyx, The (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>The Black Onyx is a role-playing game developed by Bullet Proof Software. It was released, among other consoles and computers, for the SG-1000 in 1987. It was the last SG-1000 game to be released in card form, and the last to be published by Sega, but it is currently unknown as to whether it was the last SG-1000 game. PC-8801 and MSX versions had been released in 1984 and 1985, respectively, meaning this version is unusually late. The game was followed by The Black Onyx II: Search For The Fire Crystal, which saw its original MSX release in 1984.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Bullet-Proof Software, Inc.</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Bomb Jack (Japan).zip</path>
+    <name>Bomb Jack</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Bomb Jack (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Bomb Jack (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Bomb Jack is an arcade game developed by Tehkan which was later ported to the SG-1000 by Sega in 1985. The aim of the game is to collect all the bombs in the playfield while avoiding monsters. Extra points are awarded for collecting the bombs in a specific order.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Tehkan Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Borderline (Japan, Europe).zip</path>
+    <name>Borderline</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Borderline (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Borderline (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Borderline is a VIC Dual arcade game developed in 1980 by Sega. It is a shoot-&apos;em-up in which the player controls a red jeep who must destroy the enemy refineries.
+
+Borderline was ported to the SG-1000 in 1983, and has also been released as part of the Sega Ages 2500 series in Japan. The second gameplay section was also recycled for the Atari 2600 release of Thunderground, though instead of driving a jeep the player controls a tank.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/C_So! (Japan).zip</path>
+    <name>C_So!</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/C_So! (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/C_So! (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>C_So! (C-SO!) is a 1985 SG-1000 game developed by Compile and published by Sega. It is a port of an MSX game from the same year, which was published by Pony Canyon.
+
+
+
+The game has the player collect various items and defeat monsters by using see-saws. In order to progress, all items must be collected and all monsters must be destroyed. There is also an edit mode, allowing the player to create their own levels.
+
+
+
+The game was only released in Japan.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Castle, The (Japan).zip</path>
+    <name>Castle, The</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Castle, The (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Castle, The (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>The Castle is video game developed by ASCII and released for the SG-1000 in 1986. It is a port of an MSX game of the same name, and is largely identical due to the similar hardware between the two machines. Due to the decline of the SG-1000 and emergence of the Sega Master System, the game was not released in Europe or Australia like many other SG-1000 games. The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>ASCII Corporation</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Chack&apos;n Pop (Japan) (Translated En).zip</path>
+    <name>Chack&apos;n Pop</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Chack&apos;n Pop (Japan) (Translated En).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Chack&apos;n Pop (Japan) (Translated En).png</marquee>
+    <video />
+    <rating />
+    <desc>Chack&apos;n Pop is an arcade game developed by Taito which was subsequently ported to the SG-1000 in 1985. It follows a yellow creature named Chack&apos;n who must traverse across several mazes blowing up monsters.
+
+The SG-1000 version of the game includes extra cutscenes and a training level not seen in the arcade version.
+
+Though Chack&apos;n Pop was not a particularly successful game for Taito, it would go on to inspire the success of Bubble Bobble, which shares many of the same characters and devotes a stage to Chack&apos;n Pop. Chack&apos;n has also cameoed in numerous Taito games since, including Bubble Bobble, Fairyland Story, Parasol Stars, Puzzle Bobble (and sequels), Bubble Symphony, Bubble Memories and Arkanoid DS.
+
+Curiously this SG-1000 version uses the katakana script for writing Chack&apos;n Pop as opposed to the hiragana script used in almost every other version.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Chack&apos;n Pop (Japan).zip</path>
+    <name>Chack&apos;n Pop</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Chack&apos;n Pop (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Chack&apos;n Pop (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Chack&apos;n Pop is an arcade game developed by Taito which was subsequently ported to the SG-1000 in 1985. It follows a yellow creature named Chack&apos;n who must traverse across several mazes blowing up monsters.
+
+The SG-1000 version of the game includes extra cutscenes and a training level not seen in the arcade version.
+
+Though Chack&apos;n Pop was not a particularly successful game for Taito, it would go on to inspire the success of Bubble Bobble, which shares many of the same characters and devotes a stage to Chack&apos;n Pop. Chack&apos;n has also cameoed in numerous Taito games since, including Bubble Bobble, Fairyland Story, Parasol Stars, Puzzle Bobble (and sequels), Bubble Symphony, Bubble Memories and Arkanoid DS.
+
+Curiously this SG-1000 version uses the katakana script for writing Chack&apos;n Pop as opposed to the hiragana script used in almost every other version.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Challenge Derby (Japan).zip</path>
+    <name>Challenge Derby</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Challenge Derby (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Challenge Derby (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Challenge Derby is a horse racing game for the SG-1000.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Sports, Sports with Animals, Horses race</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Baseball (Japan).zip</path>
+    <name>Champion Baseball</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Baseball (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Baseball (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Baseball is an arcade baseball game developed by ADK. Sega distributed the game worldwide, and produced an SG-1000 port in 1983. Alpha Denshi also made a sequel, only released in arcades.
+
+Champion Baseball is said to have been a hugely successful arcade game in Japan, even receiving its own dedicated parlours in the country (of the sort first seen with Space Invaders in 1978).</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Alpha Denshi Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Baseball</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Billiards (Japan).zip</path>
+    <name>Champion Billiards</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Billiards (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Billiards (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Billiards is a simplistic billiards game built for the SG-1000. It is the first game in Compile&apos;s &quot;Lunar Pool&quot; series. It was not released outside of Japan.
+
+Unlike the other Champion Sports games, Champion Billiards is not an accurate representation of it&apos;s sport. Instead, Champion Billiards is a level-based physics game. The goal of each level is to use the red cue ball to sink the other balls.
+
+Trivia: Breaking open the yellow ball can release a yellow Flicky.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Pool</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Boxing (Japan).zip</path>
+    <name>Champion Boxing</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Boxing (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Boxing (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Boxing is a simplistic boxing game built for the SG-1000. It was later re-released in arcades for SG-1000-based arcade hardware. An MSX version was released in 1985, published by Pony Canyon.
+
+There are five difficulty levels, and the aim is to knock out the opponent. 1 attacks, 2 selects an attack. Interestingly, if a player wins Pengo will make a cameo.
+
+Champion Boxing is also noteworthy for being the first game coded by Yu Suzuki in his first year at Sega.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Boxing</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Golf (Japan).zip</path>
+    <name>Champion Golf</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Golf (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Golf (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>If it&apos;s raining on Sunday ... it&apos;s CHAMPION GOLF day. You can enjoy hitting the ball with the appropriate club to match the shot, walking around the course with the considerate caddie over its extensive fairways, roughs, greens, ponds and bunker areas. Getting a &quot;Birdie&quot;, &quot;Eagle&quot; or an amazing &quot;Hole in One&quot;, or the even more miraculous &quot;Albatross&quot; will make you feel like you are on top of the world.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Logitec</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Golf</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Ice Hockey (Japan).zip</path>
+    <name>Champion Ice Hockey</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Ice Hockey (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Ice Hockey (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Ice Hockey is a simplistic ice hockey game built for the SG-1000.
+
+You play as the Red team vs. the Blue team. One button shoots, while the other button passes. Up and down control not only your goalie, but also the direction of the scoring shot.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Hockey</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Kendou (Japan).zip</path>
+    <name>Champion Kendou</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Kendou (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Kendou (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Kendou is a simplistic kendou game built for the SG-1000 and MSX. It was only released in Japan.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Pro Wrestling (Japan).zip</path>
+    <name>Champion Pro Wrestling</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Pro Wrestling (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Pro Wrestling (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>To play for a rank you &apos;ll have to fight three matches. Winning two out of three matches promotes you t</desc>
+    <releasedate>19850201T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Wrestling</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Soccer (Japan).zip</path>
+    <name>Champion Soccer</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Soccer (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Soccer (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Soccer is a simplistic football game built for the SG-1000. Pony Canyon later brought it to the MSX.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Soccer</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Champion Tennis (Japan).zip</path>
+    <name>Champion Tennis</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Champion Tennis (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Champion Tennis (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Champion Tennis is a simplistic tennis game built for the SG-1000.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports, Sports / Tennis</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Championship Lode Runner (Japan).zip</path>
+    <name>Championship Lode Runner</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Championship Lode Runner (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Championship Lode Runner (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>This package contained 50 of the most challenging levels ever designed, and was intended for expert players only. It did not include the level editor, you had to play through the levels in</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Choplifter (Japan).zip</path>
+    <name>Choplifter</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Choplifter (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Choplifter (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Choplifter is a 1982 Apple II game developed by Dan Gorlin and published by Broderbund. In the game you pilot a helicopter and must rescue people from prisoner of war camps. Sega were responsible for an arcade remake on both the Sega System 1 and Sega System 2 hardware in 1985. This version was ported to a variety of platforms, including the SG-1000 in 1985 and the Sega Master System in 1986.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Congo Bongo (Japan, Europe) (Alt).zip</path>
+    <name>Congo Bongo</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Congo Bongo (Japan, Europe) (Alt).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Congo Bongo (Japan, Europe) (Alt).png</marquee>
+    <video />
+    <rating />
+    <desc>Congo Bongo , originally known as Tip Top, is a 1983 arcade platformer game developed by Sega. It is often considered an isometric equivalent to Nintendo&apos;s Donkey Kong, as it stars a protagonist chasing after a large ape (in this game, called &quot;Bongo&quot;). However, unlike Donkey Kong, the game is set in a jungle, the graphics are more detailed and there are more enemies and traps.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Congo Bongo (Japan, Europe).zip</path>
+    <name>Congo Bongo</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Congo Bongo (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Congo Bongo (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Congo Bongo , originally known as Tip Top, is a 1983 arcade platformer game developed by Sega. It is often considered an isometric equivalent to Nintendo&apos;s Donkey Kong, as it stars a protagonist chasing after a large ape (in this game, called &quot;Bongo&quot;). However, unlike Donkey Kong, the game is set in a jungle, the graphics are more detailed and there are more enemies and traps.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Dokidoki Penguin Land (Japan).zip</path>
+    <name>Dokidoki Penguin Land</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Dokidoki Penguin Land (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Dokidoki Penguin Land (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Doki Doki Penguin Land is a 1985 game initially developed by Sega for the SG-1000. It is a platform-based puzzle game, where a penguin must guide an egg down the screen making sure not to break it.
+
+The basic aim of Doki Doki Penguin Land is to guide an egg from the top of the screen to the bottom. To do so means digging downwards, making sure it does not smash in the process. As a puzzle-platformer, everything is affected by gravity, and if the egg falls from a great height, it will smash. Success is achieved by making your way down the playfield carefully.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Dragon Wang (Japan) (Alt).zip</path>
+    <name>Dragon Wang</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Dragon Wang (Japan) (Alt).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Dragon Wang (Japan) (Alt).png</marquee>
+    <video />
+    <rating />
+    <desc>The protagonist is Wang (inspired by Jackie Chan and/or his character Thomas), hence the unfortunate title Dragon Wang. Wang is Chinese for King.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Dragon Wang (Japan).zip</path>
+    <name>Dragon Wang</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Dragon Wang (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Dragon Wang (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>The protagonist is Wang (inspired by Jackie Chan and/or his character Thomas), hence the unfortunate title Dragon Wang. Wang is Chinese for King.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Drol (Japan).zip</path>
+    <name>Drol</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Drol (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Drol (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Drol is an SG-1000 game released in 1985. Originally developed by Broderbund for various home computers in the west, it was brought to the SG-1000 by Sega and released exclusively in Japan. You play as a robot who must rescue his children.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Elevator Action (Japan).zip</path>
+    <name>Elevator Action</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Elevator Action (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Elevator Action (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>The player assumes the role of a spy infiltrating a 30-story building filled with elevators. The player is pursued by enemy agents who appear from behind closed doors. These agents must be dealt with via force or evasion. Successful completion of a level involves collecting all the secret documents and traversing the building from top to bottom. In the lower floors of the building, the elevator systems can be complex enough that puzzle-solving skills are needed. The controls consist of a 4-way joystick and two buttons, one to shoot and the other for jumping and kicking.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Exerion (Japan, Europe).zip</path>
+    <name>Exerion</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Exerion (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Exerion (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>The FIGHTER EX rushed in and out attacking the monstrous enemy groups in the 6 mysterious, diferent DIMENSIONAL worlds.
+The enemy is constantly in pursuit of the FIGTHER EX.
+The figther&apos;s missile attacking the enemy come down like showers of hail. Be on the alert !!
+The &quot;Dual Beam&quot; allows you to shoot downn the enemy, and the &quot;Single Beam&quot;, to speedily and continuously attack it.
+See how successful you are in battling the enemy through the 6 dangerous worlds !</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Flicky (Japan).zip</path>
+    <name>Flicky</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Flicky (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Flicky (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Little baby birds, PIOPIOes, are seen basking on the bright sunny terrace. It&apos;s now time for the little PIOPIOes to take their midafternoon snack. FLICKY, your mother, is coming to take all of you back home. Let&apos;s return skipping merrily hand in hand with mama FLICKY. Oh, oh, we&apos;ve got a big problem!! The ill-natured stray cat (NYANNYAN) is coming. Escape by jumping over him and throwing hammers and mugs in an effort to hit and destroy the big bad cat. FLICKY, you&apos;ll feel really relieved when you have successfully taken all of your baby PIOPIOes back home, won&apos;t you?</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Girl&apos;s Garden (Japan).zip</path>
+    <name>Girl&apos;s Garden</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Girl&apos;s Garden (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Girl&apos;s Garden (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>In order to prevent her boyfriend Minto from going to another little girl named Cocco, Papri must collect ten different flowers and return them to her boyfriend&apos;s house. Flowers must be caught in full bloom so that the number of flowers in her possession will increase; catching flowers too early will consider the flowers to be wasted and flowers caught too late will be wilted. Wilted flowers will ruin the bouquet, causing the player to lose half of the flowers.
+
+Bears have a taste for honey and cause the player to lose one of two hearts if one of them attacks the player. However, the honey can be dropped in order to render the bear temporarily harmless to the player. Bees appear as the player&apos;s ally, giving her bonus items occasionally and extra honey if the player catches it on a flower.</desc>
+    <releasedate>19841201T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Golgo 13 (Japan).zip</path>
+    <name>Golgo 13</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Golgo 13 (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Golgo 13 (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Golgo 13 is a shoot-&apos;em-up game for the SG-1000 based on the Japanese manga of the same name.
+
+The game has you shoot at windows of a passing train. Hitting objects that get in the way will make the bullet rebound and potentially kill you.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/GP World (Japan).zip</path>
+    <name>GP World</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/GP World (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/GP World (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>GP World for the SG-1000 and MSX, is a loose conversion of the 1984 LaserDisc-based arcade game, GP World. It was released in 1985 exclusively in Japan.
+
+Gameplay in this &quot;8-bit&quot; version of GP World is similar in concept to the arcade GP World but given the wildly differing hardware, different in execution. Most notably all graphics in the game are generated in real-time by the SG-1000 rather than streamed from a LaserDisc, which in turn leads to more predictable car physics. The concept of racing in four different types of GP is scrapped, replaced instead with a GP that spans the world and three selectable difficulties.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Gulkave (Japan).zip</path>
+    <name>Gulkave</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Gulkave (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Gulkave (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Gulkave  is an SG-1000 shoot &apos;em up game developed by Compile and published by Sega in 1986. It is a horizontal shooter, in which the player controls a spaceship that must destroy the 8 fortresses of the Gulbas Empire and several various enemies. Despite the limitations of the console, there are 30 &quot;acts&quot;, and each &quot;act&quot; has a different background and there are numerous powerups available, setting it apart from most other SG-1000 shooters at the time.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Guzzler (Japan).zip</path>
+    <name>Guzzler</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Guzzler (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Guzzler (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Guzzler is an arcade game developed by Tehkan. It was ported to the SG-1000 by Tsukuda Original and given Othello Multivision branding. To this day the SG-1000 version stands as the only home port of Guzzler.
+
+You play as a character who needs to absorb water to put out fires dotted around a maze. The fires also spawn fire-based enemies which can be defeated in a similar fashion. You can only store up to three shots at one time.
+
+Compared to other SG-1000 games, Guzzler shows some very poor production values. It thrusts you into gameplay without warning (which can result in cheap deaths) and it has a broken pause feature, which although appears to work, will unpause the game after a few seconds. There are only three maps and far fewer enemies than in the arcade version and it is also a much louder game, as the SG-1000 omits a high pitched squeak every time you make a step.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/H.E.R.O. (Japan).zip</path>
+    <name>H.E.R.O.</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/H.E.R.O. (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/H.E.R.O. (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>H.E.R.O. is an action game originally developed and published by Activision. Sega brought it to the SG-1000 in Japan.
+
+The objective of the game is to rescue trapped miners in a volcano. 1 drops a stick of dynamite to blow up barriers and kill enemies. 2 shoots a laser-like thing, which you can use to kill enemies. At the bottom of the screen, there is a Power meter showing you how much energy you have left; energy goes down as time goes on. Simply touch a miner to rescue him and move on to the next level.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Hang-On II (Japan).zip</path>
+    <name>Hang-on 2</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Hang-On II (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Hang-On II (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Hang-On II is an SG-1000 sequel to the critically acclaimed Hang-On.
+
+Despite the name, the game is meant as a direct sequel to the Mark III version of Hang-On, and is virtually identical to that game. The only difference is downgraded graphics and the addition of music from the arcade version. Meanwhile, Super Hang-On is the direct sequel to the arcade game.
+
+It is compatible with the BH-400 bike handle controller, and would be the only SG-1000 game designed for it (though the peripheral is compatible with the Sega Master System and Sega Mega Drive).</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Home Mahjong (Japan).zip</path>
+    <name>Home Mahjong</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Home Mahjong (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Home Mahjong (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Home Mahjong is a mahjong game for the SG-1000.
+
+The game was sold with a plastic screen that sticks to the TV during a 2 player game to hide the other players tiles from view.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game, Mahjong, Asiatic board game</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Hustle Chumy (Japan).zip</path>
+    <name>Hustle Chumy</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Hustle Chumy (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Hustle Chumy (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Hustle Chumy is an SG-1000 and MSX game developed by Compile and released in 1984.
+
+In Hustle Chumy players control a mouse named Chumy who needs to collect apples (and other food) in a sewer, avoiding other critters as he goes. As Chumy eats more food, his speed decreases, but his fireballs are given a longer range. Levels have varying layouts.
+
+There are several types of enemies in the game, most of which can be defeated with fireballs.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Hyper Sports (Japan).zip</path>
+    <name>Hyper Sports</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Hyper Sports (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Hyper Sports (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Hyper Sports is a sports game developed by Konami and released for the SG-1000 in 1985 (following a 1984 MSX launch). The game has the player compete through a number of olympic events.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Lode Runner (Japan, Europe).zip</path>
+    <name>Lode Runner</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Lode Runner (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Lode Runner (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>In this game, the player is required to repeatedly &quot;think&quot; and &quot;take action&quot; to go through and clear the maze scenes by solving their mysterious riddles while averting the enemy&apos;s guards who are relentlessly in pursuit of him. After collecting all of the gold chests, you must come up with fresh new ideas in order to successfully challenge the next level scene. Although your experience gained from the previous play action will help you overcome some of the future maze scenes, you still have to constantly be on the alert. You can also enjoy creating your own games by using the keyboard. This is an intriguing game which requires intellectual depth to skillfully maneuver the unknown maze structures that consecutively develop one after another.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Loretta no Shouzou - Sherlock Holmes (Japan).zip</path>
+    <name>Loretta no Shouzou - Sherlock Holmes</name>
+    <cover />
+    <image />
+    <marquee />
+    <video />
+    <rating />
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Monaco GP (Japan).zip</path>
+    <name>Monaco Gp</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Monaco GP (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Monaco GP (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>A red formula car travelling at high speed through the streets, speeding up, jumping, maneuvering to the right and left to avoid the cars obstructing the way and reckless cars coming close to your machine, ........ Be on the lookout for an ambulance suddenly passing by ......... And keep an eye out for the signposts!! Thrill-packed challenges such as the slip zones, dangerous construction sites as well as sharp curves and narrow bay bridges also appear. When in the tunnel, the headlights of your car are the only thing you can rely upon. After improving your skill by going through the beginner&apos;s level 1, you can move on to the more difficult high levels 2 and 3.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/N-Sub (Europe).zip</path>
+    <name>N-sub</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/N-Sub (Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/N-Sub (Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>A big battle develops on a cobalt blue sea. Fire a torpedo when you find the enemy&apos;s ships. Avoid the destroyer&apos;s attack by using your missiles, torpedoes and depth bombs. Counterattack and sink the enemy&apos;s ships. The enemy attack becomes more intense with each new round!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Ninja Princess (Japan) (Translated En).zip</path>
+    <name>Ninja Princess</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Ninja Princess (Japan) (Translated En).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Ninja Princess (Japan) (Translated En).png</marquee>
+    <video />
+    <rating />
+    <desc>Ninja Princess known as Sega Ninja in the west, is a Sega System 1 arcade game by Sega. It is a top-down shooter/action game, in which you play as a princess disguised as a ninja who is attempting to stop the evil tyrant Gyokuro.
+
+The game was ported to the SG-1000 in 1986 exclusively for Japan, with an MSX port following shortly afterwards. It was also brought to the Sega Master System as The Ninja, however The Ninja makes several adjustments to the story and characters, as well as updating the gameplay.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Ninja Princess (Japan).zip</path>
+    <name>Ninja Princess</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Ninja Princess (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Ninja Princess (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Ninja Princess known as Sega Ninja in the west, is a Sega System 1 arcade game by Sega. It is a top-down shooter/action game, in which you play as a princess disguised as a ninja who is attempting to stop the evil tyrant Gyokuro.
+
+The game was ported to the SG-1000 in 1986 exclusively for Japan, with an MSX port following shortly afterwards. It was also brought to the Sega Master System as The Ninja, however The Ninja makes several adjustments to the story and characters, as well as updating the gameplay.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Okamoto Ayako no Match Play Golf (Japan).zip</path>
+    <name>Okamoto Ayako No Match Play Golf</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Okamoto Ayako no Match Play Golf (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Okamoto Ayako no Match Play Golf (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Okamoto Ayako no Match Play Golf is a golf game for the Othello Multivision, released by Tsukuda Original. It is also compatible with the Sega SG-1000.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Sports, Sports / Golf</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Orguss (Japan, Europe).zip</path>
+    <name>Orguss</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Orguss (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Orguss (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Orguss is a shoot-&apos;em-up game developed and published by Sega for the SG-1000. In the game, the player takes control of a robot which can transform into a starship. It is based on the science fiction anime series Super Dimension Century Orguss.
+
+The player can swap between robot and starship modes freely, though both come with their own set advantages and disadvantages. In robot mode, you are able to destroy ground targets and have greater freedom across the screen at the expense of being a bigger target for enemies. You can shoot rapidfire, but move slower. In starship mode you cannot destroy ground targets, but are less likely to be destroyed thanks to the smaller surface area of the ship.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Othello (Japan).zip</path>
+    <name>Othello</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Othello (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Othello (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Othello is an SG-1000 video game based on the board game Othello.
+
+Two versions of Othello exist for the SG-1000. The first version, released in 1983, was built into the Othello Multivision (which is where the system gets its name from). Sega would later re-release this game in cartridge form in 1985, offering significant graphical and AI improvements over Tsukuda Original&apos;s version.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game, Asiatic board game</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Pacar (Japan, Europe).zip</path>
+    <name>Pacar</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Pacar (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Pacar (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>PACAR, a mischievous car, runs through the 3D routes freely advancing and reversing at fast and slow speeds. Try to delete all the dots on the screen while avoiding the 2 kinds of enemy cars. When you pass through the special dots, PACAR becomes more and more invincible as it increases its power and will be free from damage even when it crashes into the enemy car. Keep up the torrid pace and destroy as many of the enemy cars as possible!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Pachinko (Japan).zip</path>
+    <name>Pachinko</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Pachinko (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Pachinko (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Pachinko is an SG-1000 game developed and published by Sega in 1983. It is, as the name suggests, a video game version of Pachinko, a popular game in Japan. The game did not see an international release.
+
+Pachinko is an extremely rare game for the SG-1000. Soon after release, it was recalled from sale due to a game-breaking bug (need to verify) and very few copies remain in the hands of collectors. This is probably the very first instance of a recall in Sega&apos;s history (?).</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game, Casino</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Pachinko II (Japan).zip</path>
+    <name>Pachinko 2</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Pachinko II (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Pachinko II (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Pachinko II is the bug fixed version of Pachinko and a &quot;sequel&quot;, which was released for the SG-1000 in 1984.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game, Casino</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Pitfall II - The Lost Caverns (Japan).zip</path>
+    <name>Pitfall II : The Lost Caverns</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Pitfall II - The Lost Caverns (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Pitfall II - The Lost Caverns (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Pitfall II: The Lost Caverns is the sequel to Pitfall and was released for a variety of systems during the mid-1980s including the SG-1000 in 1985. Gameplay is similar to the original game, but the levels are more maze-like.
+
+Sega&apos;s version of Pitfall II was tweaked significantly from its western counterparts released for the Atari 2600, ColecoVision etc. The gameplay is largely the same, but there are many additions. These include a Lives system, mine-carts, balloons, and a final Demon boss. The SG-1000 version is directly inspired by the arcade game, and though cannot match the same level of graphical quality, it is arguably the nicest looking home port of the game.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Pop Flamer (Japan, Europe).zip</path>
+    <name>Pop Flamer</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Pop Flamer (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Pop Flamer (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>&quot;POP FLAMER&quot; is a mouse which operates a flamethrower.nnYou as a player attempt to break balloons and supply fuel for the flamethrower while eliminating the 3 kinds of MONSTERS and the obstacle FROG which is obstructing the routes. However, be carefuk of the tranquizing beam from the &quot;HARADON&quot;. When you are exposed to this beam, you will not be able to move temporality! When the POP  FLAMER takes a &quot;power-up drink&quot;, it ohanges into a &quot;SUPER MOUSE&quot; and you can score high points by swallowing the nearby MONSTERS in one gulp!!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Q-bert (Japan).zip</path>
+    <name>Q*bert</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Q-bert (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Q-bert (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Q*bert is an arcade game by Gottlieb. It was ported to the SG-1000 by Tsukuda Original, who marketed it for their Othello Multivision console.
+
+The objective of the game is to turn all the cubes on screen to a desired colour by moving Q*bert on top of them. Q*bert can only move in diagonals, and the player needs to be careful not to either send Q*bert off the edge or have him collide with enemies/obstacles. Occasionally cylindrical platforms appear on the edge of the screen, which when jumped on, will take Q*bert to the top.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Rock n&apos; Bolt (Japan).zip</path>
+    <name>Rock N&apos; Bolt</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Rock n&apos; Bolt (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Rock n&apos; Bolt (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Before you awaits the construction world&apos;s most complicated, confused mess of mind-boggling blueprints, bolts, beams and girders.nnYou and you alone will have to figure it all out and put it all together. And you don&apos;t have all day.nnIt&apos;s a dazzling, dizzying, incredibly exciting high-rise challenge. All 100 floors of it.nnYou&apos;ll spin, leap and dance your way from beam to beam, puzzle to puzzle. Earn bonus wages and hire extra workers.nnSo, grab your hat and strap on your boots. You&apos;re about to discover how hot music and high energy can help fill a very, very tall order.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Safari Hunting (Japan).zip</path>
+    <name>Safari Hunting</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Safari Hunting (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Safari Hunting (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Go deep into the jungle and hunt fierce animals. Your weapon is a mighty tranquilizer gun. Capture the sleeping snakes, gorillas, lions and elephants by putting them in a cage. Capture as many animals as possible, while considering the effective time of the tranquilizer and the available quantity of fuel.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Safari Race (Japan).zip</path>
+    <name>Safari Race</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Safari Race (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Safari Race (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>On the vast savanna plain, the SAFARI RACE has just gotten underway. Keep running at full speed, passing other cars while avoiding various wild animals that cross the road. Drive fast, ever onward, taking into consideration the limited time, fuel consumption and dangerous sharp curves. Pass through the checkpoints. Run your car at full throttle towards the goal with the engine operating at its maximum capacity.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Safari Race (Europe).zip</path>
+    <name>Safari Race</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Safari Race (Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Safari Race (Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>On the vast savanna plain, the SAFARI RACE has just gotten underway. Keep running at full speed, passing other cars while avoiding various wild animals that cross the road. Drive fast, ever onward, taking into consideration the limited time, fuel consumption and dangerous sharp curves. Pass through the checkpoints. Run your car at full throttle towards the goal with the engine operating at its maximum capacity.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/San-nin Mahjong (Japan).zip</path>
+    <name>Sannin Mahjong</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/San-nin Mahjong (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/San-nin Mahjong (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Sannin Mahjong is a mahjong game for the SG-1000. It is sometimes also known as 3-nin Mahjong, meaning three player mahjong. This number of players is not possible in either of Sega&apos;s own versions of the game, Mahjong and Home Mahjong.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Mahjong, Asiatic board game</genre>
+    <players>3</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Sega Flipper (Japan, Europe).zip</path>
+    <name>Sega Flipper</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Sega Flipper (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Sega Flipper (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>A catchy rhythmical flipper sound accompanies this computer pinball video game. Featuring a D.T. (drop target) that enables you to earn bonus points and a K.H. (kicker hole) that entitles you to earn bonus points X a multiplication rate! Take good aim, and shoot away! Here&apos;s wishing you success as you merrily flip your way around the playfield in search of the proverbial &quot;high score&quot;.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Mahjong (Japan).zip</path>
+    <name>Sega Mahjong</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Mahjong (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Mahjong (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>This is the first mahjong game released for the SG-1000, developed and published by Sega in 1983. Unlike later mahjong games released for the system, this game is for one player only.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game, Mahjong, Asiatic board game</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Sega-Galaga (Japan).zip</path>
+    <name>Sega-Galaga</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Sega-Galaga (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Sega-Galaga (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Take control of a fighter space craft and shoot down the invading aliens. Watch out for the swooping motherships, which will try to steal your fighter. Rescue captured fighters to double your firepower. Earn Perfect Bonuses as you battle your way through wave after wave in different challenging stages.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Serizawa Hachidan no Tsumeshogi (Japan).zip</path>
+    <name>Serizawa Hachidan no Tsumeshougi</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Serizawa Hachidan no Tsumeshogi (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Serizawa Hachidan no Tsumeshogi (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Serizawa Hachidan no Tsumeshogi is a 1982 arcade game by Sega. It was subsequently ported to the SG-1000.
+
+The arcade version is extremely rare and poorly documented.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game, Casual Game</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Shinnyushain Tooru Kun (Japan).zip</path>
+    <name>Shinnyushain Tooru Kun</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Shinnyushain Tooru Kun (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Shinnyushain Tooru Kun (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Shinnyuushain Tooru-Kun is a game for the SG-1000. It was originally an arcade game by Konami known as Mikie outside Japan.
+
+An unlicensed version was released for the Sega Master System in South Korea.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Sindbad Mystery (Japan, Europe).zip</path>
+    <name>Sindbad Mystery</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Sindbad Mystery (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Sindbad Mystery (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Sindbad Mystery is an arcade game developed by Sega for Sega G80 (raster) hardware in 1983. It was ported to the SG-1000 in the same year. It follows a boy named Sindbad who must avoid monsters while piecing together a treasure map, similar to Pac-Man. He can also use a digging mechanic to trap enemies, similar to Heiankyo Alien and Space Panic.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Soukoban (Japan).zip</path>
+    <name>Soukoban</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Soukoban (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Soukoban (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Sokoban is a puzzle game developed by Thinking Rabbit. Sega ported it to the SG-1000 in 1985. Neither version left Japan.
+
+Sokoban is the basis for Shove It! ...The Warehouse Game, released for the Sega Mega Drive.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Thinking Rabbit</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Space Armor (Japan).zip</path>
+    <name>Space Armor</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Space Armor (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Space Armor (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Space Armor is a 1984 shoot-&apos;em-up game developed and published by Tsukuda Original. It was built with the Othello Multivision in mind, but like all Multivision games, is also compatible with the SG-1000. Space Armor was not released outside of Japan.
+
+The game is built similarly to Namco&apos;s Xevious, in that it is a vertical shooter where one button fires at flying targets and the other at ground targets.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Space Invaders (Japan).zip</path>
+    <name>Space Invaders</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Space Invaders (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Space Invaders (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land. The aliens march back and forth, and each time the end of the screen is reached they will drop one row closer to the bottom. Shoot them all, and you move on to the next (tougher) level, but if even one of them lands the game is over. 
+
+Surprisingly the SG-1000 port of the game was one of the most accurate of its time, surpassing the NES and MSX versions which were the console&apos;s main competitors. Though it adds more color (the arcade version was simply black and white, with translucent overlays to mimic color), the SG-1000 version retains all the original graphics, whereas other ports (especially for Atari systems) re-drew the invaders due to various graphical restrictions.
+
+The SG-1000 version does not appear to have been released outside of Japan.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Space Mountain (Japan).zip</path>
+    <name>Space Mountain</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Space Mountain (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Space Mountain (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Space Mountain is an SG-1000 game developed and published by Tsukuda Original with the Othello Multivision in mind. It is a very primitive third-person space ship shooter, in which the player has to gun down enemy craft before infiltrating a base.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Space Slalom (Japan).zip</path>
+    <name>Space Slalom</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Space Slalom (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Space Slalom (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Space Slalom is a video game developed by Orca and published by Sega for the SG-1000 in 1983.
+
+Though on the surface it appears to be a space-themed vertical shoot-&apos;em-up, there is actually no shooting involved. The player controls a shuttle and must navigate it through a course defined by coloured stars, similar to ski slaloms. The player must also avoid obstacles, and will be awarded with extra points depending on on his/her speed across the course.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Orca</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Action</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Star Force (Japan).zip</path>
+    <name>Star Force</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Star Force (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Star Force (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Star Force is a 1984 arcade vertical shoot-&apos;em-up developed by Tehkan (now Tecmo), which was later brought to the SG-1000 in 1985.
+
+The SG-1000 version of the game was released on both cartridge an on Sega Card.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Star Jacker (Japan, Europe).zip</path>
+    <name>Star Jacker</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Star Jacker (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Star Jacker (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>A &quot;new feeling&quot; space game. Glorious space troops fight against invading &quot;Dester&quot; army. Avoid UFO&apos;s continuous attacks weaving left and right, up and down. Counter-attack by using your fire button. Lead the space troops to the Carrier passing through the various mysteriy zones.</desc>
+    <releasedate>19830715T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Super Tank (Japan).zip</path>
+    <name>Super Tank</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Super Tank (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Super Tank (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Super Tank is a shoot-&apos;em-up game for the SG-1000. The player drives a tank and is tasked with shooting at and destroying enemy units and structures.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Terebi Oekaki (Japan).zip</path>
+    <name>Terebi Oekaki</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Terebi Oekaki (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Terebi Oekaki (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Terebi Oekaki is the game packaged with the Sega Graphic Board for the SG-1000. It is a simple paint program.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Wonder Boy (Japan).zip</path>
+    <name>Wonder Boy</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Wonder Boy (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Wonder Boy (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>WONDER BOY starts off a long and hazardous journey in pursuit of KING, who has kidnapped his girlfriend, TINA. KING lives in a faraway place, inhabited by monstrous creatures and full of many surprises. On the way, our hero has to collect food to increase his energy. WONDER BOY&apos;s ultimate mission is to rescue TINA and prove to one and all that true love always triumphs.
+</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action, Platform</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Yamato (Japan, Europe).zip</path>
+    <name>Yamato</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Yamato (Japan, Europe).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Yamato (Japan, Europe).png</marquee>
+    <video />
+    <rating />
+    <desc>Avoid the enemy&apos;s attack by torpedoes and missiles. Shoot down the missiles. Be careful, YAMATO will explode if it is hit broadside. Aim at the enemy and fire the guns. Attack enemy&apos;s planes by using your quick-friring guuns. Can YAMATO survive through this fierce battle?</desc>
+    <releasedate>19830301T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Zaxxon (Japan).zip</path>
+    <name>Zaxxon</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Zaxxon (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Zaxxon (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>ZAXXON thrusts you into the depths of outer space. Test your pilot skills as you strap into the command position. Prepare for an action-packed challenge of space survival. Score points as you dive, climb, and swoop down to destroy the enemy&apos;s floating fortress. Dodge deadly laser barriers, enemy missiles, and rapid gunfire! Destroy enemy fuel tanks and your own supply is replenished. Survive the enemy&apos;s fighter fleet attack and face the ultimate challenge... the powerful, armored ZAXXON ROBOT.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Zippy Race (Japan).zip</path>
+    <name>Zippy Race</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Zippy Race (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Zippy Race (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>The player takes control of a motorcyclist who&apos;s in a race to be the first to traverse the United States from the west to the east coast, starting in Los Angeles and ending up in New York City.
+
+Gameplay consists of the player dodging cars and other roadway hazards on their way to the next checkpoint. Players can either accelerate or hit the brakes on their motorcycle so they can avoid getting into an accident. Accidents cause the player to lose fuel and running out of fuel can end the game. So players must keep an eye out on the fuel gauge, which can be refilled by fuel barrels littered throughout each stage. Each car the player passes betters their ranks which increases their score.
+
+The SG-1000 version of the game is one of two SG-1000 releases to see four separate Japanese releases (the other being Monaco GP) - three on cartridge with each of the SG-1000&apos;s box designs, and one on Sega Card. Despite this it did not see a release outside of Japan.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+  <game>
+    <path>/home/pi/RetroPie/roms/sg-1000/Zoom 909 (Japan).zip</path>
+    <name>Zoom 909</name>
+    <cover />
+    <image>/home/pi/.emulationstation/downloaded_media/sg-1000/screenshots/Zoom 909 (Japan).png</image>
+    <marquee>/home/pi/.emulationstation/downloaded_media/sg-1000/marquees/Zoom 909 (Japan).png</marquee>
+    <video />
+    <rating />
+    <desc>Zoom 909 is an arcade game developed by Sega for VCO Object arcade hardware. It was released worldwide in 1982, however after obtaining a license for Buck Rogers, western versions of the game became known as Buck Rogers: Planet of Zoom. Both Zoom 909 and Buck Rogers: Planet of Zoom are largely the same game minus some minor graphical differences.
+
+Though most home ports of the game are based on Planet of Zoom, Zoom 909 was brought to the Japanese MSX in 1983 and SG-1000 in 1985. These versions take more liberties with the formula, introducing a top-down stage as level 3.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter, Shoot&apos;em Up</genre>
+    <players>2</players>
+    <kidgame>true</kidgame>
+  </game>
+</gameList>
